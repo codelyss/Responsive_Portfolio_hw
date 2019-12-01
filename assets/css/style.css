@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+
+h3 {
+  color: #4aaaa5;
+  font-size: 25px;
+}
+
+.card {
+    padding: 30px;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.media-body {
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px;
+    max-width: 960px;
+    overflow: auto;
+    color: #242424;
+}
