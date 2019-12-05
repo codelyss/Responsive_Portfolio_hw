@@ -3,8 +3,9 @@
   }
 
 h3 {
-  color: #4aaaa5;
+  color: #a13890;
   font-size: 25px;
+  font-family: 'Oxygen', sans-serif;
 }
 
 .card {
@@ -34,7 +35,7 @@ h3 {
 }
 
 .navbar-brand {
-  font-family: 'Bree Serif', serif;
+  font-family: 'Eagle Lake', cursive;
 }
 
 
